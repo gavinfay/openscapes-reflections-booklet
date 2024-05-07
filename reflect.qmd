@@ -7,53 +7,15 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 <!---p.1--->
 *What are the conditions when you do your best work? This could be things like I write best in the mornings, I am comfortable speaking up in new spaces.*
 
-
-
- 
-
- 
-
- 
-
- 
+Do good ideating when working in an active small group
+Early morning writing time
+Find that individual ideating time is often something I do well late morning once fully caffeinated.
+Late afternoon programming time, with tea.
+I am efficient with organizing and email tasking when I give myself pre-specified time constraints and goals.
+I find I feel good about non-urgent work things when I know I am also helping future me, so for example writing an email template in a google doc, because I know I (or others) may re-use this again.
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
  
 :::
@@ -68,28 +30,17 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 *Think across your different workflows. Where do you do your writing? How do you manage citations or versions? How do software and files connect together? If you analyze data or images, what do you use?*
 
 
-  
+Writing - primarily in GoogleDocs, though some use of MSWord with collaborators and reviewing products from students.
+Writing for the web (e.g. course websites), do in quarto.
+For Word docs from collaborators I encourage use of OneDrive for versioning (but not many do this), and our department faculty have a pretty shared system of adding initials to the slug.
+Some students have used OneDrive for writing (linking to github), which is great for track changes comments and versioning, but does require students learn LaTeX.
+Long-time wishlist: track change comments in Quarto/Rmd. 
+Citations - I use Zotero but my relationship with citation managers is more fraught than it should be.
 
- 
+I make use of github a LOT. 
 
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
+For programming, I use the RStudio IDE, and Sublime Text + Terminal.
+Git/Github interaction is done both through the RStudio IDE and via the terminal
 
   
 
@@ -106,27 +57,12 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 *You can do this think of a specific project or piece of your workflow, or multiple projects. What does an example day or week look like? Do you write notes to yourself or document your process? Do you use sticky notes, apps, a document, a calendar? How do you find things weekly or come back to something after a month, a year?*
 
   
+I have 'lab notebooks' (GoogleDocs) for specific projects. I have a general 'to-do' google doc that I don't use all the time but I find it is a good way to organize myself when things are getting a little overwhelming/crazy and I want to keep track of things.
+Make use of issues on github for specific tasks related to research projects.
+(Some use of project boards in github but I generally find low uptake / persistent use of these among collaborators - issues seem to be more frequently used)
+I make use of my Calendar to keep appointments and to allocate time to projects (and writing). I like to have a Friday meeting with myself where I plan for the following week (review calendar / to-dos, assign tasks to timeslots, etc.), but  go through bursts where I do this consistently.
 
  
-
-  
-
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
 
 :::
 
@@ -138,32 +74,17 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Who is included in your workflow? How do you share files and communicate? If you think "I work alone", consider who you talk to, how do you give and receive feedback?*
 
-  
+Communicate via Email & Tags in GoogleDocs
+I like to use links to googledocuments in emails rather than attach things.
+Conversations on specific tasks via GitHub Issues
+Prefer students share files via GoogleDoc and/or Github
+We have a shared lab GoogleDrive also.
+Most have some combination of github / google drive.
+For writing, some prefer to attach files via emails (e.g. Word docs)
+Thinking about how to foster/encourage culture of more use / sharing of tools
 
- 
+Give feedback on documents but generally also high level and major comments in an email
 
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 
 
 :::
@@ -176,43 +97,13 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *There are good things about your workflow. What feels good to you?*
 
+Having things in GoogleDocs that are accessible (if I remember how to search for them).
+Git and github makes me feel good - or rather, the thought of not using these tools scares the bejeezus out of me.
 
-  
+Modeling sharing of materials and using GoogleDocs for note taking, etc.
+Encouraging use and sharing of materials via these ways during meetings, etc.  
 
- 
 
-  
- 
- 
- 
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
 
 :::
 
@@ -225,39 +116,14 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *Are there places you suspect take longer than they should or could improve in other ways? Are there things you find yourself repeating a lot (copy-pasting, clicking?)*
 
+Finding a balance between meeting people where they are at and encouraging them to think about workflows so we can be more efficient as a team
+I spend more energy worrying about people than I should.
+Getting people up to speed with lab workflows and required/recommended skills. Could be improved with some dedicated time to (a) update lab manual parts, (b) identifying some default training courses/materials that I direct people to - e.g. standardized set of intro things that ppl shoudl know, rather than making this completely bespoke.
+I suspect I am too flexible.
 
-  
-
- 
-
-  
-
- 
+Find myself repeating advising conversations in my head a lot - this energy would be better used writing proposals - need to find way to hold myself more accountable to tasking on this.
 
  
-
- 
- 
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
-
- 
-
- 
-
-  
-
-  
 
  
 :::
@@ -271,23 +137,20 @@ Our purpose today is to notice – what works, what doesn’t work? We’ll thin
 
 *What might be a focus for the next few weeks?*
 
+Thinking about what scaling training in Open Science and Open Data Science across UMass Dartmouth would look like - what would we want to prioritize for initial activities and who would we want to engage with?  
+
+DiSH
+Urban Studies program students
+Honors College students
+Faculty and grad students across SMAST, COE, CAS, CCB
+CVPA & Nursing?
   
-
- 
-
-  
-
- 
-
-  
-
-  
-
- 
-
-  
-
-  
+Faculty Community of Practice on Data & Decision Making for Climate Resilient Coastal Communities.
+Semianr series
+Workshop series
+Carpentries workshops
+Openscapes Champions cohorts
+CoP around Integrated Socio-Environmental Systems Modeling and Coastal Planning
 
  
 
